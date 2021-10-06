@@ -18,7 +18,7 @@
 ### Gist About Me
 
 <h3>A passionate Full Stack Web Developer and Mobile App Developer 🚀</h3>
-- 📫 How to reach me <a href="mailto:ukwjeandedieu1@gmail.com">send me an email</a>
+- 📫 How to reach me <a href="mailto:shemalucien5@gmail.com">send me an email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
