@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Lucien Shema
 
-👀 I’m interested in 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on
 
@@ -23,4 +23,4 @@
 - ⚡ Fun fact: You can call me fun guy!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemalucien&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemalucien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Best-dodgerred.svg?style=for-the-badge)
