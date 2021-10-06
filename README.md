@@ -15,7 +15,7 @@
 
 - 🔭 I am a full-stack developer.
 - 👯 Don't miss the target, here i get what you need, let's get our hands dirt with coding.
-- 📫Inbox me: <a href="mailto:ukwjeandedieu1@gmail.com">send me an email</a>
+- 📫Inbox me: <a href="mailto:shemalucien5@gmail.com">send me an email</a>
 - ⚡ Fun fact: You can call me fun guy!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanndo&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanndo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemalucien&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanndo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
