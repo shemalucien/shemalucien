@@ -17,10 +17,19 @@
 
 ### Gist About Me
 
-- 🔭 I am a full-stack developer.
+<h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀</h3>
 - 👯 Don't miss the target, here i get what you need, let's get our hands dirt with coding.
-- 📫Inbox me: <a href="mailto:shemalucien5@gmail.com">send me an email</a>
+- 📫 How to reach me **shemalucien5@gmail.com**
 - ⚡ Fun fact: You can call me fun guy!
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shemalucien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shemalucien" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shemalucien/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shemalucien" height="30" width="40" /></a>
+<a href="https://web.facebook.com/shemalucien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shemalucien" height="30" width="40" /></a>
+<a href="https://instagram.com/shemalucien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shemalucien" height="30" width="40" /></a>
+ 
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemalucien&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemalucien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Best-dodgerred.svg?style=for-the-badge)
