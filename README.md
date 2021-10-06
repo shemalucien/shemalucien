@@ -21,9 +21,9 @@ About Me
 <h3>A passionate Full Stack Web Developer and Mobile App Developer 🚀</h3>
 - 📫 How to reach me <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=CllgCJZZQwHxvNfNRkSFxfjbQpNsdgfrmsHGrzmQSKdrpqWFJDgvXQDMDwDtblbBCxLfWXxdgLV">shemalucien5@gmail.com</a>
 
--💬 +250788392932
--🇷🇼 Rwandan #Africa
--⚡  
+-💬 +250788392932<br>
+-🇷🇼 Rwandan #Africa<br>
+-⚡  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
