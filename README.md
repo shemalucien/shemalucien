@@ -17,10 +17,8 @@
 
 ### Gist About Me
 
-<h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀</h3>
-- 👯 Don't miss the target, here i get what you need, let's get our hands dirt with coding.
+<h3>A passionate Full Stack Web Developer and Mobile App Developer 🚀</h3>
 - 📫 How to reach me **shemalucien5@gmail.com**
-- ⚡ Fun fact: You can call me fun guy!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
